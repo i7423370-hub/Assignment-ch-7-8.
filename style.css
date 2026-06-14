@@ -1,0 +1,68 @@
+.b1,.b2,.b3,.b4{
+            
+            clear: both;
+            margin: 25px;
+            background-color: rgb(212, 192, 255);
+            padding: 10px;
+            width: 200px;
+            height: 200px;
+            overflow: scroll;
+}
+h2{
+           text-align: left;
+}
+.b1 img{
+           float: none;
+           clear: both;
+}
+nav{
+           text-align: center;
+           list-style-type: none;
+           float: left;
+
+}
+a{
+    text-decoration: none;
+}
+body{
+            background-color: rgb(89, 143, 154);
+}
+#company{
+            width: 60%;
+            margin-left: auto;
+            margin-right: auto;
+            background-color: rgb(159, 114, 201);
+}
+.container{
+            margin-left: 170px;
+            padding: 17px;
+            background-color: rgb(55, 92, 94);
+}
+nav{
+            list-style-type: none;
+            text-decoration: none;
+            color: azure;
+}
+.box{
+           background-color: rgb(205, 209, 255);
+}
+footer{
+           text-align: center;
+}
+#our{
+           background-color: rgb(144, 42, 165);
+}
+.A1{
+            background-color: rgb(152, 103, 157);
+            color: black;
+}
+.rr{
+    background-color: rgb(142, 142, 168);
+}
+.center{
+    text-align: center;
+    background-color: rgb(117, 88, 142);
+}
+.s1{
+    text-align: center;
+}
